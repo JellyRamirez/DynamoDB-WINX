@@ -1,0 +1,42 @@
+[
+    {
+        "genero": "Shonen",
+        "titulo": "Jujutsu Kaisen",
+        "info": {
+            "autor": "Gege Akutami",
+            "rating": 9.5,
+            "año": 2020
+        }
+    },
+
+    {
+        "genero": "Deportes",
+        "titulo": "Haikyuu!!",
+        "info": {
+            "autor": "Furudate Haruichi",
+            "rating": 9.2,
+            "año": 2014
+        }
+    },
+    
+    {
+        "genero": "Shonen",
+        "titulo": "Kimetsu no Yaiba",
+        "info": {
+            "autor": "Koyoharu Gotouge",
+            "rating": 8.9,
+            "año": 2019
+        }
+    },
+
+    {
+        "genero": "Deportes",
+        "titulo": "Kuroko no basuke",
+        "info": {
+            "autor": "Tadatoshi Fujimaki",
+            "rating": 8.4,
+            "año": 2012
+        }    
+    }
+    
+]
